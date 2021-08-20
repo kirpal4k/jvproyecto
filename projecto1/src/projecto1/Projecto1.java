@@ -5,6 +5,8 @@
  */
 package projecto1;
 
+
+
 /**
  *
  * @author 503
@@ -15,7 +17,12 @@ public class Projecto1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //metodo
+        
+        int edad=32;
+        Personaje objeto=new Personaje();
+        
+        objeto.atributo1=5;
     }
     
 }
